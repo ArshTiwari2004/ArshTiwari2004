@@ -29,7 +29,10 @@ Fueled by a passion for innovation and a relentless curiosity, I am dedicated to
 
 <img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=ArshTiwari2004&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
 
-
+<img src="https://stats.quine.sh/ArshTiwari2004/github?theme=dark" width="400">
+<img src="https://stats.quine.sh/ArshTiwari2004/dependencies?theme=dark" width="400"><br>
+<img src="https://stats.quine.sh/ArshTiwari2004/topics-over-time?theme=dark" width="400">
+<img src="https://stats.quine.sh/ArshTiwari2004/languages-over-time?theme=dark" width="400">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArshTiwari2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
