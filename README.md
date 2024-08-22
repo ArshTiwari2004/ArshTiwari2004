@@ -4,9 +4,17 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👩‍🔬+from+India;App+Development+Enthusiast+📊;Learning+About+Blockchain+💻;Open+Source+Contributor;)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👩‍🔬+from+India;App+Development+Enthusiast+📊;Exploring+Blockchain+Technology+💻;Open+Source+Contributor;)](https://git.io/typing-svg)
 </div>
+
+<div align = "left">  
+  👀 Ex-Community Manager @InAmigos Foundation<br>      
+  🤖 Web Developer Intern @Oasis Infobyte<br>  
+  👾 Contributor @ GSSoC'24 and @ SSOC'24<br>   
+  🌟 Campus Ambassador Intern @Kaizen IIT Delhi and @Saarang IIT Madras
+  🎯 Junior Council Member @nameSpace Community
+  🫂 Looking to collaborate on Open Source Projects<br>    
+   </div>
 
 <br>
 <br>
