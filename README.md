@@ -10,7 +10,7 @@
 <br>
 <div align = "center">  
   👀 Ex-Community Manager @InAmigos Foundation<br>      
-  🤖 Web Developer Intern @Oasis Infobyte<br>  
+  🤖 Web Developer Intern  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @Oasis Infobyte<br>  
   👾 Contributor @ GSSoC'24 and @ SSOC'24<br>   
   🌟 Campus Ambassador Intern @Kaizen IIT Delhi and @Saarang IIT Madras<br>
   🎯 Junior Council Member @nameSpace Community<br>
