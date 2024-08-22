@@ -3,7 +3,6 @@
 <div align="left">
 
 <div align="center">
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👩‍🔬+from+India;App+Development+Enthusiast+📊;Learning+About+Blockchain+💻;Open+Source+Contributor;)](https://git.io/typing-svg)
 
