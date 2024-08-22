@@ -16,6 +16,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 </div>
 
+<br>
 <div align="center">
 <img src="https://tenor.com/en-GB/view/coding-gif-18657810.gif" align="center" style="width: 100%" />
 </div>
