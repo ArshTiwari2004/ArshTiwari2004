@@ -16,7 +16,7 @@
 <br>
 
 <p>
-Fueled by a passion for innovation and a relentless curiosity, I am dedicated to crafting digital experiences that merge creativity with technical excellence. My academic journey in Computer Science Engineering at BPIT, GGSIPU, and Data Science at IIT Madras empowers me to explore the latest in app development, full-stack web solutions, and emerging technologies like Web 3.0. With a deep commitment to building impactful projects, I thrive on bringing ideas to life—whether developing dynamic applications, designing sleek websites, or diving into uncharted tech territories. My hands-on expertise spans React, MongoDB, Express.js, and a suite of modern tools that enable me to turn concepts into reality. Alongside this, I actively contribute to open-source projects, collaborate across communities, and embrace every opportunity to expand my skillset, all while maintaining a forward-thinking approach to technology.
+Fueled by a passion for innovation and a relentless curiosity, I am dedicated to crafting digital experiences that merge creativity with technical excellence. My academic journey in Computer Science Engineering at BPIT, GGSIPU, and Data Science at IIT Madras empowers me to explore the latest in app development, full-stack web solutions, and emerging technologies like Web 3.0. With a deep commitment to building impactful projects, I thrive on bringing ideas to life—whether developing dynamic applications, designing sleek websites, or diving into uncharted tech territories. My hands-on expertise spans React, MongoDB, Express.js, and a suite of modern tools that enable me to turn concepts into reality. Alongside this, I actively contribute to open-source projects, collaborate across communities, and embrace every opportunity to expand my skillset, all while maintaining a forward-thinking approach to technology🚀
 </p>
 
 - 🌱 I’m currently learning **NextJS, Appwrite, Flutter**
@@ -25,11 +25,9 @@ Fueled by a passion for innovation and a relentless curiosity, I am dedicated to
 
 - 💬 Ask me about **Web Development, App Development , Blockchain**
 
- <br>
-- 😄 My Linktree : <a href="https://linktr.ee/Arsh_Tiwari">![Static Badge](https://img.shields.io/badge/Arsh%20Tiwari-brightgreen?logo=linktree&logoColor=white&link=https%3A%2F%2Flinktr.ee%2FPranavBarthwal)</a>
-    <br>
-
 - 📫 How to reach me **arshtiwari12345@gmail.com**
+
+- 👨‍💻 I love to attend Tech events/Meetups and make new connections.
 
 <br>
 <br>
