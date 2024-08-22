@@ -29,6 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 Fueled by a passion for innovation and a relentless curiosity, I am dedicated to crafting digital experiences that merge creativity with technical excellence. My academic journey in Computer Science Engineering at BPIT, GGSIPU, and Data Science at IIT Madras empowers me to explore the latest in app development, full-stack web solutions, and emerging technologies like Web 3.0. With a deep commitment to building impactful projects, I thrive on bringing ideas to life—whether developing dynamic applications, designing sleek websites, or diving into uncharted tech territories. My hands-on expertise spans React, MongoDB, Express.js, and a suite of modern tools that enable me to turn concepts into reality. Alongside this, I actively contribute to open-source projects, collaborate across communities, and embrace every opportunity to expand my skillset, all while maintaining a forward-thinking approach to technology🚀
 </p>
 
+<br>
 </div>
 
 - 🌱 I’m currently learning **NextJS, Appwrite, Flutter**
