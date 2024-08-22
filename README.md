@@ -27,6 +27,10 @@ Fueled by a passion for innovation and a relentless curiosity, I am dedicated to
     <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArshTiwari2004&theme=algolia&hide_border=true&stroke=0000"  />
 </a>
 
+<img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=ArshTiwari2004&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArshTiwari2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
