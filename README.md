@@ -2,6 +2,12 @@
   <h1> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, myself Arsh Tiwari!</h1>
 <div align="left">
 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+<br>
+<br>
+
+
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.arshtiwari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-tiwari-072609284/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)]([https://quora.com/profile/https://www.quora.com/profile/Arsh-Tiwari-23](https://www.quora.com/profile/Arsh-Tiwari-23)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArshTiwari17) 
