@@ -52,11 +52,7 @@ Fueled by a passion for innovation and a relentless curiosity, I am dedicated to
 ---
 [![](https://visitcount.itsvg.in/api?id=ArshTiwari2004&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/ArshTiwari2004/count.svg" />
-</p>
-
+<img src="istockphoto-1136904132-612x612-removebg-preview.png" alt="isolated" width="2000px"/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
