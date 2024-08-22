@@ -3,7 +3,9 @@
 <div align="left">
 
 <div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.arshtiwari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-tiwari-072609284/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)]([https://quora.com/profile/https://www.quora.com/profile/Arsh-Tiwari-23](https://www.quora.com/profile/Arsh-Tiwari-23)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArshTiwari17) 
+
 </div>
 
 <div align="center">
