@@ -7,12 +7,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer👩‍🔬+from+India;App+Development+Enthusiast+📊;Exploring+Blockchain+Technology+💻;Open+Source+Contributor;)](https://git.io/typing-svg)
 </div>
 
+<br>
 <div align = "center">  
   👀 Ex-Community Manager @InAmigos Foundation<br>      
   🤖 Web Developer Intern @Oasis Infobyte<br>  
   👾 Contributor @ GSSoC'24 and @ SSOC'24<br>   
-  🌟 Campus Ambassador Intern @Kaizen IIT Delhi and @Saarang IIT Madras
-  🎯 Junior Council Member @nameSpace Community
+  🌟 Campus Ambassador Intern @Kaizen IIT Delhi and @Saarang IIT Madras<br>
+  🎯 Junior Council Member @nameSpace Community<br>
   🫂 Looking to collaborate on Open Source Projects<br>    
    </div>
 
