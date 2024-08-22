@@ -57,5 +57,8 @@ Fueled by a passion for innovation and a relentless curiosity, I am dedicated to
 <p align="left">
 <a href="https://creativecommons.org/licenses/by-nc/4.0"><img align="right" style="padding-top: 7px;" src="https://licensebuttons.net/l/by-nc/3.0/88x31.png" width="72" /></a>&nbsp;<img align="right" style="padding-top: 7px;" src="https://user-images.githubusercontent.com/48355572/213894405-3eca405e-0c4b-41a6-aa8f-97cb62ae7176.png" width="70" />
 <img src="https://user-images.githubusercontent.com/48355572/234945747-bf397684-9a28-4601-b81a-c09deff53a49.gif" width="18px" height="14px">
+Regarding any issues, feel free to drop a mail at — <a href="mailto:arshtiwari12345@gmail.com"><b>arshtiwari12345@gmail.com</b></a>
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
