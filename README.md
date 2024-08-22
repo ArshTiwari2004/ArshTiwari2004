@@ -25,8 +25,14 @@ Fueled by a passion for innovation and a relentless curiosity, I am dedicated to
 
 - 💬 Ask me about **Web Development, App Development , Blockchain**
 
+ <br>
+- 😄 My Linktree : <a href="https://linktr.ee/Arsh_Tiwari">![Static Badge](https://img.shields.io/badge/Arsh%20Tiwari-brightgreen?logo=linktree&logoColor=white&link=https%3A%2F%2Flinktr.ee%2FPranavBarthwal)</a>
+    <br>
+
 - 📫 How to reach me **arshtiwari12345@gmail.com**
 
+<br>
+<br>
 
 [![An image of @arshtiwari2004 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshtiwari2004)](https://holopin.io/@arshtiwari2004)
 
