@@ -9,6 +9,7 @@
 
 <br>
 <div align = "center">  
+  👨‍💻 Web Developer Intern @Eterna-InfoTech<br>
   👀 Ex-Community Manager @InAmigos Foundation<br>      
   🤖 Web Developer Intern  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @Oasis Infobyte<br>  
   👾 Contributor @ GSSoC'24 and @ SSOC'24<br>   
