@@ -3,7 +3,7 @@
 <div align="left">
 
 <div align="center">
-  <p> <a href="https://arsh-tiwari-portfolio.vercel.app/" target="_blank">PORTFOLIO</a></p>
+  <p> <a href="https://arsh-tiwari-portfolio.vercel.app/" target="_blank">View my portfolio</a></p>
 </div>
 
 <p>
