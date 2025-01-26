@@ -105,6 +105,7 @@ Fueled by a passion for innovation and a relentless curiosity, I am dedicated to
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
     </tr> 
+</table>
 
 
 #  GitHub Stats
