@@ -50,7 +50,7 @@ Fueled by a passion for innovation and a relentless curiosity, I am dedicated to
 <br>
 </div>
 
-- 🌱 I’m currently learning **NextJS, Appwrite, Flutter**
+- 🌱 I’m currently learning **NextJS, Appwrite**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
 
@@ -67,9 +67,45 @@ Fueled by a passion for innovation and a relentless curiosity, I am dedicated to
 
 
 <div align="center">
+<table align="center">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,java,c"/></td>
+    </tr>
+      <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass,bootstrap,redux,materialui,html,css"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,postman"/><img height="40" src="https://imgs.search.brave.com/f4RnlZ2475hE0WW0UVIxWR291pSHpgJbK_xZEHm6QoI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zb2NrZXQt/aW8taWNvbi01MTJ4/NTExLXhqcDdreng2/LnBuZw" alt="Socket.io" width="40" height="40" style="margin-left: 10px;"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Deployment:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify"/> <img src="https://imgs.search.brave.com/Qn2UAITMoDk1dYMEGxA8Wg94ku4GMHs02rjfdV_ApAw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZXRk/ZXBsb3lpbmcuY29t/L3N0YXRpYy9pbWcv/bG9nb3MvcmVuZGVy/LjkwZmZhMGY3NzZi/NS5wbmc" alt="Render" width="40" height="40"/> 
+        <img src="https://imgs.search.brave.com/wzB0ayC7TSduwjmXsnsgrqCA-bgLvPpz-crKmgo6VA4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aW1hZ2VzLmhpbWFs/YXlhcy5hcHAvMms4/eGVsbmI3eTg4aGU3/OHN0MHhsdm1wZTc3/cQ" alt="Railways" width="40" height="40"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,replit"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,appwrite,notion,androidstudio,firebase,figma"/><img src="https://imgs.search.brave.com/acMhc0fYPEVXN2RVICLf-WgKTQQbOnnF-Cn4DmuvHAg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWMt/Y2RuLmF0bGFzc2lh/bi5jb20vZGFtL2pj/cjpmYTAxNzU2ZC02/ZGNjLTQ1ZDEtODNh/Yi02OTZmYmZlYjA3/NGYvSmlyYS1pY29u/LWJsdWUuc3ZnP2Nk/blZlcnNpb249MjQ0/Nw" alt="Jira" width="40" height="40"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
+    </tr> 
 
-# Tools and Technologies
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 #  GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ArshTiwari2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
