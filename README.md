@@ -16,10 +16,10 @@
 
 <br>
 <div align = "center">  
-  👨‍💻 Web Developer Intern<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @Eterna-InfoTech<br>
+  👨‍💻 Developer Intern<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @Eterna-InfoTech<br>
   👀 Ex-Community Manager @InAmigos Foundation<br>      
   👾 Contributor @ GSSoC'24 and @ SSOC'24<br>   
-  🌟 Campus Ambassador Intern @Kaizen IIT Delhi and @Saarang IIT Madras<br>
+  🌟 Intern @Kaizen IIT Delhi and @Saarang IIT Madras<br>
   🎯 Junior Council Member @nameSpace Community<br>
   🫂 Looking to collaborate on Open Source Projects<br>    
    </div>
