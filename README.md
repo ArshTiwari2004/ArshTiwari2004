@@ -1,10 +1,10 @@
 <div align="center">
-  <h1> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, myself Arsh Tiwari!</h1>
-<div align="left">
-
-<div align="center">
-  <p> <a href="https://arsh-tiwari-portfolio.vercel.app/" target="_blank">View my portfolio</a></p>
+  <h1> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Arsh Tiwari!</h1>
 </div>
+<div align="center">
+  <p> <a href="https://arsh-portfolio-delta.vercel.app/" target="_blank">View my portfolio</a></p>
+</div>
+
 
 <p>
 </p>
@@ -16,13 +16,14 @@
 
 <br>
 <div align = "center">  
-  👨‍💻 Developer Intern<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @Eterna-InfoTech<br>
-  👀 Ex-Community Manager @InAmigos Foundation<br>      
-  👾 Contributor @ GSSoC'24 and @ SSOC'24<br>   
-  🌟 Intern @Kaizen IIT Delhi and @Saarang IIT Madras<br>
-  🎯 Junior Council Member @nameSpace Community<br>
-  🫂 Looking to collaborate on Open Source Projects<br>    
-   </div>
+  🚀 Upcoming SWE Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @Mappls<br>
+  💻 Developer Intern @Eterna InfoTech<br>
+  🏆 5x Hackathon Winner & 6x Finalist<br>      
+  🌟 Ex-Community Manager @InAmigos Foundation<br>
+  🎯 Intern @Kaizen IIT Delhi<br>
+  🫂 Open to collaborating on innovative projects<br>    
+</div>
+
 
 <br>
 <br>
@@ -30,9 +31,16 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.arshtiwari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-tiwari-072609284/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)]([https://quora.com/profile/https://www.quora.com/profile/Arsh-Tiwari-23](https://www.quora.com/profile/Arsh-Tiwari-23)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArshTiwari17) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-tiwari-072609284/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArshTiwari17) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?logo=VisualStudioCode&logoColor=white)](https://arsh-portfolio-delta.vercel.app/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=Gmail&logoColor=white)](mailto:arshtiwari12345@gmail.com) 
+[![Linktree](https://img.shields.io/badge/Linktree-%2300C200.svg?logo=linktree&logoColor=white)](https://linktr.ee/Arsh_Tiwari) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.arshtiwari/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TeamSynapse3)
 
 </div>
+
 
 <br>
 <div align="center">
@@ -66,47 +74,42 @@ Fueled by a passion for innovation and a relentless curiosity, I am dedicated to
 [![An image of @arshtiwari2004 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshtiwari2004)](https://holopin.io/@arshtiwari2004)
 
 
+<br>
 <div align="center">
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,java,c"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,python,java,c"/></td>
     </tr>
-      <tr>
+    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass,bootstrap,redux,materialui,html,css"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,postman"/><img height="40" src="https://imgs.search.brave.com/f4RnlZ2475hE0WW0UVIxWR291pSHpgJbK_xZEHm6QoI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zb2NrZXQt/aW8taWNvbi01MTJ4/NTExLXhqcDdreng2/LnBuZw" alt="Socket.io" width="40" height="40" style="margin-left: 10px;"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,php"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI/ML:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Deployment:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify"/> <img src="https://imgs.search.brave.com/Qn2UAITMoDk1dYMEGxA8Wg94ku4GMHs02rjfdV_ApAw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZXRk/ZXBsb3lpbmcuY29t/L3N0YXRpYy9pbWcv/bG9nb3MvcmVuZGVy/LjkwZmZhMGY3NzZi/NS5wbmc" alt="Render" width="40" height="40"/> 
-        <img src="https://imgs.search.brave.com/wzB0ayC7TSduwjmXsnsgrqCA-bgLvPpz-crKmgo6VA4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aW1hZ2VzLmhpbWFs/YXlhcy5hcHAvMms4/eGVsbmI3eTg4aGU3/OHN0MHhsdm1wZTc3/cQ" alt="Railways" width="40" height="40"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps & Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,replit"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Mobile:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,flutter,androidstudio"/></td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,appwrite,notion,androidstudio,firebase,figma"/><img src="https://imgs.search.brave.com/acMhc0fYPEVXN2RVICLf-WgKTQQbOnnF-Cn4DmuvHAg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWMt/Y2RuLmF0bGFzc2lh/bi5jb20vZGFtL2pj/cjpmYTAxNzU2ZC02/ZGNjLTQ1ZDEtODNh/Yi02OTZmYmZlYjA3/NGYvSmlyYS1pY29u/LWJsdWUuc3ZnP2Nk/blZlcnNpb249MjQ0/Nw" alt="Jira" width="40" height="40"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
-    </tr> 
 </table>
+</div>
+<br>
 
+<div align="center">
 
 #  GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ArshTiwari2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
