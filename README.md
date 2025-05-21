@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-tiwari-072609284/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-tiwari-072609284/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArshTiwari17) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?logo=VisualStudioCode&logoColor=white)](https://arsh-portfolio-delta.vercel.app/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=Gmail&logoColor=white)](mailto:arshtiwari12345@gmail.com) 
