@@ -16,7 +16,7 @@
 
 <br>
 <div align = "center">  
-  🚀 Upcoming SWE Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @Mappls<br>
+  🚀 SWE Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @Mappls<br>
   💻 Developer Intern @Eterna InfoTech<br>
   🏆 5x Hackathon Winner & 6x Finalist<br>      
   🌟 Ex-Community Manager @InAmigos Foundation<br>
