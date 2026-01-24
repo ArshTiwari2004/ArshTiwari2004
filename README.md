@@ -1,46 +1,20 @@
 <div align="center">
-  <h1> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Arsh Tiwari!</h1>
-</div>
-<div align="center">
-  <p> <a href="https://arsh-portfolio-delta.vercel.app/" target="_blank">View my portfolio</a></p>
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Arsh Tiwari</h1>
 </div>
 
-
-<p>
-</p>
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Full+Stack+Developer+from+India;App+Development+Enthusiast+📊;Exploring+Blockchain+Technology+💻;Open+Source+Contributor;)](https://git.io/typing-svg)
+  <a href="https://arsh-portfolio-delta.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/arsh-tiwari-072609284/" target="_blank">LinkedIn</a> •
+  <a href="https://x.com/ArshTiwari17" target="_blank">Twitter</a> •
+  <a href="https://youtube.com/@TeamSynapse3" target="_blank">YouTube</a>
 </div>
 
 <br>
-<div align = "center">  
-  🚀 SWE Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @Mappls<br>
-  💻 Developer Intern @Eterna InfoTech<br>
-  🏆 5x Hackathon Winner & 6x Finalist<br>      
-  🌟 Ex-Community Manager @InAmigos Foundation<br>
-  🎯 Intern @Kaizen IIT Delhi<br>
-  🫂 Open to collaborating on innovative projects<br>    
-</div>
-
-
-<br>
-<br>
-
-
 <div align="center">
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-tiwari-072609284/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArshTiwari17) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?logo=VisualStudioCode&logoColor=white)](https://arsh-portfolio-delta.vercel.app/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=Gmail&logoColor=white)](mailto:arshtiwari12345@gmail.com) 
-[![Linktree](https://img.shields.io/badge/Linktree-%2300C200.svg?logo=linktree&logoColor=white)](https://linktr.ee/Arsh_Tiwari) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.arshtiwari/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TeamSynapse3)
-
+  <p>
+    <b>Experience:</b> SWE Intern @ Mappls • Developer Intern @ Eterna InfoTech • Intern @ Kaizen, IIT Delhi • Ex-Community Manager @ InAmigos Foundation • 5× Hackathon Winner • 6× Hackathon Finalist
+  </p>
 </div>
-
 
 <br>
 <div align="center">
