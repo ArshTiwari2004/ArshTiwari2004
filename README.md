@@ -12,7 +12,7 @@
 <br>
 <div align="center">
   <p>
-    <b>Experience:</b> SWE Intern @ Mappls • Developer Intern @ Eterna InfoTech • Intern @ Kaizen, IIT Delhi • Ex-Community Manager @ InAmigos Foundation • 5× Hackathon Winner • 6× Hackathon Finalist
+    <b>Experience:</b> SDE Intern @ MathonGo • SWE Intern @ Mappls • Developer Intern @ Eterna InfoTech • Intern @ Kaizen, IIT Delhi • Ex-Community Manager @ InAmigos Foundation • 5× Hackathon Winner • 6× Hackathon Finalist
   </p>
 </div>
 
