@@ -32,15 +32,7 @@ Fueled by a passion for innovation and a relentless curiosity, I am dedicated to
 <br>
 </div>
 
-- 🌱 I’m currently learning **NextJS, Appwrite**
-
-- 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
-
-- 💬 Ask me about **Web Development, App Development , Blockchain**
-
 - 📫 How to reach me **arshtiwari12345@gmail.com**
-
-- 👨‍💻 I love to attend Tech events/Meetups and make new connections.
 
 <br>
 <br>
