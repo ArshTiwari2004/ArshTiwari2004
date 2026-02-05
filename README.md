@@ -26,7 +26,7 @@
 
 <div align="center">
 <p>
-Fueled by a passion for innovation and a relentless curiosity, I am dedicated to crafting digital experiences that merge creativity with technical excellence. My academic journey in Computer Science Engineering at BPIT, GGSIPU, and Data Science at IIT Madras empowers me to explore the latest in app development, full-stack web solutions, and emerging technologies like Web 3.0. With a deep commitment to building impactful projects, I thrive on bringing ideas to life—whether developing dynamic applications, designing sleek websites, or diving into uncharted tech territories. My hands-on expertise spans React, MongoDB, Express.js, and a suite of modern tools that enable me to turn concepts into reality. Alongside this, I actively contribute to open-source projects, collaborate across communities, and embrace every opportunity to expand my skillset, all while maintaining a forward-thinking approach to technology🚀
+Full-stack developer and Computer Science undergraduate (CGPA 9.1) building scalable web and AI-powered systems. Experienced across MathonGo (1L+ users), Mappls (LLM-based AI modules), and Eterna Infotech (full-stack platforms). Strong in Data Structures & Algorithms, System Design (LLD/HLD), and core CS fundamentals. Grand Finalist at Smart India Hackathon 2025 (Top 5 nationally), 5-time hackathon winner, and open-source contributor (@arshtiwari/envguard – 500+ installs). I also publish technical content on YouTube covering DSA, System Design, and real-world engineering concepts.
 </p>
 
 <br>
