@@ -7,6 +7,8 @@
 <a href="https://youtube.com/@TeamSynapse3" target="_blank">YouTube</a>
 </p>
 
+Reach me at **arshtiwari12345@gmail.com**
+
 <!-- <p>
 <b>Experience:</b> SDE Intern @ MathonGo • SWE Intern @ Mappls • Developer Intern @ Eterna InfoTech • Intern @ Kaizen, IIT Delhi  
 <br>
@@ -14,8 +16,6 @@
 </p> -->
 
 <img src="https://tenor.com/en-GB/view/coding-gif-18657810.gif" width="50%"/>
-
-📫 Reach me at **arshtiwari12345@gmail.com**
 
 # Tech Stack
 
