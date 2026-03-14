@@ -17,7 +17,7 @@ Reach me at **arshtiwari12345@gmail.com**
 
 <img src="https://tenor.com/en-GB/view/coding-gif-18657810.gif" width="50%"/>
 
-# Tech Stack
+# Tech stack I work with:
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ Reach me at **arshtiwari12345@gmail.com**
 </tr>
 </table>
 
-# GitHub Stats
+# GitHub stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArshTiwari2004&theme=dark&hide_border=true" height="165"/>
 
