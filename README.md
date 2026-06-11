@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 
-  <a href="https://www.youtube.com/@TeamSynapse3">
+  <a href="https://www.youtube.com/@CodewithAP01">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
 </p>
