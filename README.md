@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 
-  <a href="https://arsh-portfolio-delta.vercel.app/">
+  <a href="https://www.arshtiwari.in">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 
