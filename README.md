@@ -4,7 +4,7 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=ArshTiwari2004&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## if you're here, you're probably looking for my work:
+## if you're here, you're probably looking for my work
 
 - [**ApplyStack**](https://applystack.vercel.app): a full-stack job application tracker built to manage applications, tasks, and follow-ups across the entire hiring lifecycle. Features Redis caching, RabbitMQ-powered email delivery, PDF exports, and Docker-based setup.
   → [Code](https://github.com/ArshTiwari2004/applystack-microservices)
