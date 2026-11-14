@@ -47,7 +47,7 @@ Git, Docker, Postman, Appian, AWS (foundational), RabbitMQ, Kafka
 
 ## beyond code
 
-i also run [@offerscout](https://x.com/ArshTiwari17), where i share software engineering opportunities, internships, hackathons, resources, and insights to help builders learn and grow. feel free to check it out.
+i also run [@offerscout](https://x.com/offerscout), where i share software engineering opportunities, internships, hackathons, resources, and insights to help builders learn and grow. feel free to check it out.
 
 
 ## a little about me
