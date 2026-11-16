@@ -6,7 +6,7 @@
 
 ## if you're here, you're probably looking for my work
 
-- [**ApplyStack**](https://applystack.arshtiowari.in): a full-stack job application tracker built to manage applications, tasks, and follow-ups across the entire hiring lifecycle. Features Redis caching, RabbitMQ-powered email delivery, PDF exports, and Docker-based setup.
+- [**ApplyStack**](https://applystack.arshtiwari.in): a full-stack job application tracker built to manage applications, tasks, and follow-ups across the entire hiring lifecycle. Features Redis caching, RabbitMQ-powered email delivery, PDF exports, and Docker-based setup.
   → [Code](https://github.com/ArshTiwari2004/applystack-microservices)
 
 - [**GoRTC**](https://gortc-z8va.onrender.com): a high-performance real-time video conferencing and chat system built with Go, Pion WebRTC, Fiber, FastHTTP, and WebSockets.
